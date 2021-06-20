@@ -1,0 +1,5 @@
+backend:
+  serviceName: videos-app-backend-chart-backend-service
+
+frontend:
+  serviceName: videos-app-frontend-chart-frontend-service
